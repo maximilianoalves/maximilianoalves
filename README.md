@@ -1,5 +1,4 @@
-## Hi 👋  
-## I'm Max. 😄
+<h1 align="center">Hi 👋, I'm Max. 😄 </h1>
 
 <!--
 **maximilianoalves/maximilianoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
