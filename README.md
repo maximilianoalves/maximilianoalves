@@ -9,11 +9,12 @@ Below you can see some repositories and some strategies for software automation,
 
 ### Last articles. 
 
-1. [VADER: Heurística para teste de API na prática](https://medium.com/@maximilianoalves/vader-heuristica-para-teste-de-api-na-pratica-fcf78c6acec)
-2. [Testes de acessibilidade, como podemos melhorar?](https://medium.com/cwi-software/testes-de-acessibilidade-porque-sao-pouco-explorados-4636d1d4b1f)
-3. [Iniciando testes de serviços com HTTParty e RSpec](https://medium.com/cwi-software/https-medium-com-maximilianoalves-iniciando-testes-de-servicos-com-httparty-e-rspec-366fe93525ab)
-4. [Testes de contrato de API com Joi](https://medium.com/cwi-software/testes-de-contrato-de-api-com-joi-1ce552fe2531)
-5. [Cross testing com Ruby, Cucumber e Appium](https://medium.com/cwi-software/cross-testingo-com-ruby-cucumber-e-appium-32bc1f08fb86)  
+1.[9 Dicas para implementar automação de testes para equipes com projetos em andamento.](https://medium.com/@maximilianoalves/9-dicas-para-implementar-automa%C3%A7%C3%A3o-de-testes-para-equipes-com-projetos-em-andamento-89201c65d2d8)
+2. [VADER: Heurística para teste de API na prática](https://medium.com/@maximilianoalves/vader-heuristica-para-teste-de-api-na-pratica-fcf78c6acec)
+3. [Testes de acessibilidade, como podemos melhorar?](https://medium.com/cwi-software/testes-de-acessibilidade-porque-sao-pouco-explorados-4636d1d4b1f)
+4. [Iniciando testes de serviços com HTTParty e RSpec](https://medium.com/cwi-software/https-medium-com-maximilianoalves-iniciando-testes-de-servicos-com-httparty-e-rspec-366fe93525ab)
+5. [Testes de contrato de API com Joi](https://medium.com/cwi-software/testes-de-contrato-de-api-com-joi-1ce552fe2531)
+6. [Cross testing com Ruby, Cucumber e Appium](https://medium.com/cwi-software/cross-testingo-com-ruby-cucumber-e-appium-32bc1f08fb86)  
 
 ### Stats. 
 ![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maximilianoalves&theme=monokai)
