@@ -4,7 +4,7 @@
 **maximilianoalves/maximilianoalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I work with QA focused and automation, but I have passion for development. 
-I’m currently working at CWI Software in Brazil and i have learned a lot about mobile automation and design patterns for software automation.
+I’m currently working in Brazil and i have learned a lot about mobile automation and design patterns for software automation.
 Below you can see some repositories and some strategies for software automation, and bootstrap strutures for your software automation projects.
 
 ### Last articles. 
